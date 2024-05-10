@@ -3,4 +3,5 @@ This is an attempt to change Eaglercraft's logo and tab title with the Minecraft
 Currently changed the title, working on the image 
 
 totally confused about how to input an image but still keep it in one folder 
+
 any help would be appreciated
